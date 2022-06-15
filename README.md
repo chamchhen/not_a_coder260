@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @chamchhen260
+- 👋 Hi, I’m @not_a_coder260
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Data Structure and Algorithm
 - 💞️ I’m looking to collaborate on I have not decided yet.
 - 📫 How to reach me instagram chamchhen_official
 
